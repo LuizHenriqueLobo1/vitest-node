@@ -12,6 +12,8 @@
 3. Execute o projeto `npm start` ou em watch mode `npm run dev`
 4. Execute os testes `npm test`
 
+---
+
 <p align="center">
   Made by <a href="https://github.com/luizhenriquelobo1/" target="_blank">Luiz Henrique Lobo</a>
 </p>
